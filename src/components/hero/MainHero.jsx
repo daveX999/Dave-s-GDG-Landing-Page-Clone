@@ -8,7 +8,8 @@ import PartnersSection from "../partners/Partners";
 import GetInsideScoop from "../scoop/GetScoopComp";
 import Speakers from "../speakers/Sponsors";
 import TeamsSection from "../teams/TeamComp";
-import ThrowbackSection from '../Throwback'
+// import ThrowbackSection from '../Throwback'
+import ThrowbackSection from "../throwback/Throwback";
 import VideoComp from "../videoComp/VideoComp";
 
 function MainHero() {
